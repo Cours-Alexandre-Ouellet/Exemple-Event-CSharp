@@ -1,0 +1,7 @@
+C:\Users\aouellet\OneDrive - Cégep de Victoriaville\Bureau\Projets C#\Exemple-Event-CSharp\Exemple-Event-CSharp\Exemple-Event-CSharp\bin\Debug\Exemple-Event-CSharp.exe.config
+C:\Users\aouellet\OneDrive - Cégep de Victoriaville\Bureau\Projets C#\Exemple-Event-CSharp\Exemple-Event-CSharp\Exemple-Event-CSharp\bin\Debug\Exemple-Event-CSharp.exe
+C:\Users\aouellet\OneDrive - Cégep de Victoriaville\Bureau\Projets C#\Exemple-Event-CSharp\Exemple-Event-CSharp\Exemple-Event-CSharp\bin\Debug\Exemple-Event-CSharp.pdb
+C:\Users\aouellet\OneDrive - Cégep de Victoriaville\Bureau\Projets C#\Exemple-Event-CSharp\Exemple-Event-CSharp\Exemple-Event-CSharp\obj\Debug\Exemple-Event-CSharp.csprojAssemblyReference.cache
+C:\Users\aouellet\OneDrive - Cégep de Victoriaville\Bureau\Projets C#\Exemple-Event-CSharp\Exemple-Event-CSharp\Exemple-Event-CSharp\obj\Debug\Exemple-Event-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\aouellet\OneDrive - Cégep de Victoriaville\Bureau\Projets C#\Exemple-Event-CSharp\Exemple-Event-CSharp\Exemple-Event-CSharp\obj\Debug\Exemple-Event-CSharp.exe
+C:\Users\aouellet\OneDrive - Cégep de Victoriaville\Bureau\Projets C#\Exemple-Event-CSharp\Exemple-Event-CSharp\Exemple-Event-CSharp\obj\Debug\Exemple-Event-CSharp.pdb
